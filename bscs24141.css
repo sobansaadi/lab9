@@ -1,10 +1,18 @@
 
 .first-div {
     width: 500px;
-    height: 500px;
-    background-color: lightblue;
-    border: 3px solid darkblue;
+    height: 50px;
+    background-color: rgba(173, 216, 230, 0.938);
+    border: 3px solid rgb(139, 0, 130);
     border-radius: 20%;
     margin: 10px;
     padding: 5px;
+}
+
+.normal-para {
+    color: green;
+}
+
+#fav-para {
+    color: purple;
 }
